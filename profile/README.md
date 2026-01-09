@@ -7,6 +7,12 @@
 
 ![Screenshot](screenshot.png)
 
+<div align="center">
+<a href="https://lms.ditanyain.web.id" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-155DFC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=155DFC" />
+</a>
+</div>
+
 **Ditanyain** is an AI-based formative assessment platform integrated with Learning Management Systems (LMS). It automatically generates assessment questions from sub-module content and provides adaptive, informative feedback to help learners understand their progress more effectively.
 
 ## ✨ Meet The Awesome Team Behind Ditanyain
@@ -23,25 +29,73 @@
     <tr>
       <td>Project Manager</td>
       <td>Muhammad Rival Dwisatrio</td>
-      <td><a href="https://www.linkedin.com/in/muhammad-rival-dwisatrio/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/Rivalzy">Github</a></td>
+      <td>
+        <a href="https://www.linkedin.com/in/muhammad-rival-dwisatrio/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Rivalzy" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td rowspan="2">Back-End</td>
       <td>Galih Bagus Hardiyanto</td>
-      <td><a href="https://www.linkedin.com/in/gbagush/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/gbagush">Github</a></td>
+      <td>
+        <a href="https://www.linkedin.com/in/gbagush/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/gbagush" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://www.galihbagus.com" target="_blank">
+          <img src="https://img.shields.io/badge/Website-155DFC?style=flat&logo=googlechrome&logoColor=white" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Abdurrohman Haadziq</td>
-      <td><a href="https://www.linkedin.com/in/dziqha/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/Dziqha">Github</a></td>
+      <td>
+        <a href="https://www.linkedin.com/in/dziqha/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Dziqha" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://www.haadziq.my.id" target="_blank">
+          <img src="https://img.shields.io/badge/Website-155DFC?style=flat&logo=googlechrome&logoColor=white" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td rowspan="2">Front-End</td>
       <td>Khaerul Falah</td>
-      <td><a href="https://www.linkedin.com/in/khaerul-falah-bb1871264/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/khaerulfalah23">Github</a></td>
+      <td>
+        <a href="https://www.linkedin.com/in/khaerul-falah-bb1871264/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/khaerulfalah23" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Cornelius Nathan</td>
-      <td><a href="https://www.linkedin.com/in/louisnath/">LinkedIn</a>&nbsp;&nbsp;<a href="https://github.com/Louis3112">Github</a></td>
+      <td>
+        <a href="https://www.linkedin.com/in/louisnath/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Louis3112" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -60,7 +114,7 @@
 
 #### Tech Stack
 
-![Back-End Tech Stack](https://skillicons.dev/icons?i=nodejs,typescript,express,postgres,rabbitmq,redis)
+![Back-End Tech Stack](https://skillicons.dev/icons?i=nodejs,typescript,express,postgres,rabbitmq)
 
 #### Contributors
 
